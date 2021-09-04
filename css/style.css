@@ -1,0 +1,20 @@
+.ourcon{
+    background-color: whitesmoke !important;
+    max-width: 90%;
+    margin: auto;
+}
+#image{
+    /* width: 99% !important; */
+    margin-left: auto  !important;
+    margin-right: auto !important;
+    object-fit: contain !important;
+}
+.paddo{
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+ul li span{
+    font-weight: bolder;
+}
